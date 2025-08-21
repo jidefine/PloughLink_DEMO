@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3124e096a45ae0146930258cbcbe760e, type: 3}
+  m_Name: Talk System
+  m_EditorClassIdentifier: 
+  talkSession0:
+  - speakerId: 0
+    portraitId: 0
+    msg: "\uC548\uB155\uD558\uC138\uC694. \uB2F9\uC2E0\uC744 \uAE30\uB2E4\uB9AC\uACE0
+      \uC788\uC5C8\uC2B5\uB2C8\uB2E4."
+  - speakerId: 0
+    portraitId: 1
+    msg: "\uB2F9\uC2E0\uC740 \uC774 \uACF3\uC774 \uCC98\uC74C\uC774\uC2DC\uC8E0?"
+  - speakerId: 0
+    portraitId: 0
+    msg: "\uCC28\uCC28 \uC124\uBA85\uB4DC\uB9AC\uACA0\uC2B5\uB2C8\uB2E4. \uC800\uC640
+      \uD568\uAED8 \uAC00\uC2DC\uC8E0."
+  - speakerId: 0
+    portraitId: 1
+    msg: "\uC7A0\uC2DC\uB9CC...\uC774 \uC8FC\uBCC0\uC5D0\uC11C \uBB54\uAC00 \uB290\uAEF4\uC9C0\uB294
+      \uAD70\uC694....."
+  - speakerId: 0
+    portraitId: 1
+    msg: 
+  talkSession1:
+  - speakerId: 1
+    portraitId: 0
+    msg: "\uC73C\uC73C\uC73C\uC73C\uC73C\uC73C\uC73C"

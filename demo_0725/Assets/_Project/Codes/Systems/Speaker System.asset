@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4610b7d5325079d4cbf5cd9c01e004de, type: 3}
+  m_Name: Speaker System
+  m_EditorClassIdentifier: 
+  speakerID: 0
+  speakerName: "\uC8FC\uC778\uACF5"
+  speakerDesc: "[\uB300\uB9AC\uC790]"
+  portraits:
+  - {fileID: 21300000, guid: ad50fe5a73482cc499fb6b36a165584c, type: 3}
+  - {fileID: 21300000, guid: e5073f87611ac534180c5694d058f7cc, type: 3}
